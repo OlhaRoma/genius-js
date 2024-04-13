@@ -274,3 +274,20 @@
 // 1) banana 30, 4,5
 // 2) cherry 58, 1,3
 // 3) orange 89. 3,4
+
+// const shop = {
+//     name: name,
+//     cost: undefined,
+//     amount: undefined,
+//     shopInfo: function () {
+//         console.log(`${this.name} коштує ${this.cost} грн за кг.`);
+//     }
+// }
+//
+// let item = {
+//     name: prompt('Назва товару'),
+//     cost: +prompt('Ціна за кг'),
+//     amount: +prompt('Кількість товару'),
+// };
+//
+// shop.shopInfo.call(item);
