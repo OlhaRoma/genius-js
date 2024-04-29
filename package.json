@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "uuid": "^9.0.1"
+  },
+  "name": "genius",
+  "description": "",
+  "version": "1.0.0",
+  "main": "script1.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
